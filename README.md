@@ -1,6 +1,6 @@
 # Web Resume
 
-![Web Resume](https://raw.githubusercontent.com/SumatM/web_resume/main/public/Screenshot%20(747).png)
+![Web Resume]()
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Web Resume is a personal portfolio website showcasing my skills, experience, and
 
 ## Demo
 
-You can see a live demo of the project [here](https://web-resume-six.vercel.app/resume).
+You can see a live demo of the project [here]().
 
 ## Features
 
@@ -44,8 +44,8 @@ You can see a live demo of the project [here](https://web-resume-six.vercel.app/
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/SumatM/web_resume.git`
-2. Navigate to the project directory: `cd web_resume`
+1. Clone the repository: `git clone https://github.com/Shubhampar/web-resume.git`
+2. Navigate to the project directory: `cd web-resume`
 3. Install dependencies: `npm install`
 
 ## Usage
@@ -78,6 +78,6 @@ Contributions to this project are welcome. If you find any bugs or want to add n
 
 If you have any questions or want to connect, feel free to reach out to me:
 
-- Email: sumatmallick@gmail.com
-- LinkedIn: [Sumat Mallick](https://www.linkedin.com/in/sumat-mallick-65b966227/)
-- GitHub: [SumatM](https://github.com/SumatM)
+- Email: ishubhamsingh932gmail.com
+- LinkedIn: [Shubham Singh](https://www.linkedin.com/in/shubham-singh-86664094/)
+- GitHub: [Shubhampar](https://github.com/Shubhampar)
