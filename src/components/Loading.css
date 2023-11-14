@@ -1,0 +1,48 @@
+.mainContainer{
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    width: 100vw;
+    z-index: 199;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .loadingWord {
+    display: inline-block;
+    animation: fadeInLetter 1s ease-in-out infinite;
+    font-weight: lighter;
+
+  }
+  
+  @keyframes fadeInLetter {
+    0% {
+      transform: translateY(30px);
+      filter: blur(1px);
+      color: red;
+    }
+    50%{
+      color: rgb(167, 216, 22);
+      font-weight: bolder;
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+      color: rgb(60, 243, 60);
+      font-weight: bolder;
+    }
+  }
+  
