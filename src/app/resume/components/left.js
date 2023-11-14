@@ -26,7 +26,7 @@ const Left = () => {
         }}
       >
         <div>
-          <img src="/photo.jpg" alt="sumat" className="object-contain dpimg" />
+          <img src="/photo.jpg" alt="shubham" className="object-contain dpimg" />
         </div>
       </div>
       {/* name & title  */}

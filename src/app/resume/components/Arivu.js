@@ -11,16 +11,14 @@ const arivuKey = {
     "Authentication",
     "Authorization",
     "Secure Endpoints",
-    "Database models",
     "Interactive U/I",
-    "Integrated with backend APIs",
-    "Sorting, Searching, Filtering & Pagination",
+    "Searching, Filtering & Pagination",
   ],
 };
 
 const arivuTech = {
   heading: "Tech Stack",
-  val: ["JavaScript", "React", "Chakra UI", "MongoDB", "Express", "Node.js"],
+  val: ["HTML","CSS","JavaScript","localStorage","JSON"],
 };
 
 const arivuResponsibility = {
@@ -47,15 +45,14 @@ const Arivu = () => {
         className="mt-3"
       >
         {/* head of project  */}
-        <Link target="_blank" href="https://puny-potato-4945.vercel.app/">
+        <Link target="_blank" href="https://vermillion-arithmetic-ac5003.netlify.app/">
         <h1 className="text-base font-bold text-white">{"Coursera Clone (Arivu)"}</h1>
         </Link>
         {/* body of project  */}
         <div className="mt-2">
           <div className="text-sm">
             <p>
-              Arivu is an online learning platform that offers courses across
-              various domains, similar to Coursera.
+            Product based website which deals in Electronic products like mobile,laptops etc
             </p>
             <p>It is a collaborative project build in a span of 5 days</p>
           </div>
@@ -80,13 +77,13 @@ const Arivu = () => {
         {/* footer  */}
         <div className="flex justify-around mt-2 border-gray-600 border-spacing-1">
           <div className="flex flex-col items-center hover:cursor-pointer">
-            <Link target="_blank" href="https://github.com/SumatM/Arivu">
+            <Link target="_blank" href="https://github.com/Shubhampar/Fine-Apple-Apple.com-Clone-.git">
               <BsGithub color={theme.iconColor} size="20px" />
             </Link>
             <p className="font-bold text-xs">GitHub</p>
           </div>
           <div className="flex flex-col items-center hover:cursor-pointer">
-            <Link target="_blank" href="https://puny-potato-4945.vercel.app/">
+            <Link target="_blank" href="https://vermillion-arithmetic-ac5003.netlify.app/">
               <MdLiveTv color={theme.iconColor} size="20px" />
             </Link>
             <p className="font-bold text-xs">Live</p>
