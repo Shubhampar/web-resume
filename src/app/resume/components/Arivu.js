@@ -46,7 +46,7 @@ const Arivu = () => {
       >
         {/* head of project  */}
         <Link target="_blank" href="https://vermillion-arithmetic-ac5003.netlify.app/">
-        <h1 className="text-base font-bold text-white">{"Coursera Clone (Arivu)"}</h1>
+        <h1 className="text-base font-bold text-white">{"Apple Clone (FineApple)"}</h1>
         </Link>
         {/* body of project  */}
         <div className="mt-2">

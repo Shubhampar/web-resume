@@ -36,7 +36,7 @@ const Spartan = () => {
         {/* head of project  */}
         <Link target="_blank" href="https://stalwart-fairy-7587d7.netlify.app/">
           <h1 className="text-base font-bold text-white">
-            {"Charles Tyrwhitt Clone (Spartan)"}
+            {"Zillow Clone (Bricks99)"}
           </h1>
         </Link>
         {/* body of project  */}

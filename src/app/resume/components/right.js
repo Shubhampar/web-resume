@@ -111,7 +111,7 @@ const Right = () => {
       </div>
       {/* dowonload resume  */}
       <div className="flex justify-center absolute top-0 right-10  p-1" style={{border:'1px solid white'}}>
-       <Link target="_blank"  href="https://drive.google.com/file/d/1ni4YYEIFx2EWl7TNt-B8ymbVc5wmK7qt/view">
+       <Link target="_blank"  href="https://drive.google.com/file/d/1a_v4dbmPNLRcsXgZjXO3TMg0MhJKz5BW/view?usp=drive_link">
        <button>
         <div className="flex items-center">
           <FaDownload color={theme.iconColor}/>
